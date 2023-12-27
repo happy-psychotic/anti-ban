@@ -8,8 +8,6 @@ vless://5dfe9f45-cb7c-48e2-b344-5dc33ecfb015@mtn.video-convertor.online:443?secu
 vless://5dfe9f45-cb7c-48e2-b344-5dc33ecfb015@mkh.video-convertor.online:443?security=tls&sni=mkv.video-convertor.online&type=ws&path=/?ed%3D2048&host=mkv.video-convertor.online&encryption=none#%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
 vless://5dfe9f45-cb7c-48e2-b344-5dc33ecfb015@mci.video-convertor.online:443?security=tls&sni=mkv.video-convertor.online&type=ws&path=/?ed%3D2048&host=mkv.video-convertor.online&encryption=none#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://cc839feb-6952-464c-b04f-d345f909046b@ip1.video-convertor.online:443?security=tls&sni=r1.video-convertor.online&fp=chrome&type=ws&path=/&host=r1.video-convertor.online&encryption=none#Anti%20TLS
-vless://5d275f09-e0b1-4dd1-8d87-654f0a336f1f@r2.video-convertor.online:2087?security=reality&sni=sni1.cmirq.ir&fp=chrome&pbk=nxwBdLmFiXoeefpYb2qcNL5M508o5-zBKvkP24iqhXs&sid=0a8ad36c&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Anti%20Reality
 vless://a66a0de9-5e32-4bcc-98a3-0cae619bf84f@free.video-convert.online:443?security=tls&sni=mp4.video-convert.online&type=ws&path=/?ed%3D2048&host=mp4.video-convert.online&encryption=none#Convert
 vless://a557ca35-099a-476c-86e5-138b4267ca4e@zula.ir:2083?security=tls&sni=r1.video-convertor.online&fp=chrome&type=grpc&encryption=none#Anti%20TLS%202
-vless://45fcce23-1bd2-493b-a40f-5493fcf75e89@r2.video-convertor.online:8443?security=reality&sni=sni4.cmirq.ir&fp=chrome&pbk=HV4Y0-deqWZQMqr9T6lK-kENLtvT-sP-pJKAYZeQpgo&sid=fd44d1bf&spx=/&type=tcp&encryption=none#Anti%20Reality%202
 vless://de172280-3993-4e51-a450-aaee8ea1b312@r1.video-convertor.online:2096?security=tls&sni=r1.video-convertor.online&type=ws&path=/&encryption=none#Socket
