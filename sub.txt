@@ -11,3 +11,4 @@ vless://5dfe9f45-cb7c-48e2-b344-5dc33ecfb015@mci.video-convertor.online:443?secu
 vless://cc839feb-6952-464c-b04f-d345f909046b@ip1.video-convertor.online:443?security=tls&sni=r1.video-convertor.online&fp=chrome&type=ws&path=/&host=r1.video-convertor.online&encryption=none#Anti%20TLS
 vless://a557ca35-099a-476c-86e5-138b4267ca4e@zula.ir:2083?security=tls&sni=r1.video-convertor.online&fp=chrome&type=grpc&encryption=none#Anti%20TLS%202
 vless://de172280-3993-4e51-a450-aaee8ea1b312@r1.video-convertor.online:2096?security=tls&sni=r1.video-convertor.online&type=ws&path=/&encryption=none#Socket
+vless://de172280-3993-4e51-a450-aaee8ea1b312@ip2.video-convertor.online:2096?security=tls&sni=r1.video-convertor.online&type=ws&path=/&host=r1.video-convertor.online&encryption=none#Socket-2
