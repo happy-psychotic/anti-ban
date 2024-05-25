@@ -1,10 +1,3 @@
-vless://cc839feb-6952-464c-b04f-d345f909046b@ip1.video-convertor.online:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS
-vless://a557ca35-099a-476c-86e5-138b4267ca4e@zula.ir:2083?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=r1.video-convertor.online#Anti+TLS+2
-vless://cc839feb-6952-464c-b04f-d345f909046b@ip3.video-convertor.online:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS+3
-vless://cc839feb-6952-464c-b04f-d345f909046b@ip4.video-convertor.online:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS+4
-vless://cc839feb-6952-464c-b04f-d345f909046b@ip5.video-convertor.online:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS+5
-vless://cc839feb-6952-464c-b04f-d345f909046b@ip6.video-convertor.online:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS+6
-vless://cc839feb-6952-464c-b04f-d345f909046b@ip7.video-convertor.online:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS+7
-vless://cc839feb-6952-464c-b04f-d345f909046b@ip8.video-convertor.online:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS+8
-vless://cc839feb-6952-464c-b04f-d345f909046b@zula.ir:443?path=%2F&security=tls&encryption=none&host=r1.video-convertor.online&fp=chrome&type=ws&sni=r1.video-convertor.online#Anti+TLS+9
-
+vless://b8445413-6e9f-4d8a-a77a-aaee3facde35@ip2.video-convertor.online:8880?security=&type=ws&path=/asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray,asrnovin-ArV2ray?ed%3D80&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.antiban.shoe-zhian.shop.&encryption=none#HTTP
+vless://cc839feb-6952-464c-b04f-d345f909046b@ip1.video-convertor.online:443?security=tls&sni=r1.video-convertor.online&fp=chrome&type=ws&path=/&host=r1.video-convertor.online&encryption=none#TLS
+vless://a557ca35-099a-476c-86e5-138b4267ca4e@zula.ir:2083?security=tls&sni=r1.video-convertor.online&fp=chrome&type=grpc&encryption=none#gRPC
